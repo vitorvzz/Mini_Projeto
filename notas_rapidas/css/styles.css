@@ -1,0 +1,25 @@
+#caixasnotas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+#urgente {
+    background-color: #ffcccc;
+    border: 2px solid #ff0000;
+    padding: 40px;
+    width: 300px;
+    height: auto;
+    text-align: center
+    
+}
+#naourgente {
+    background-color: #f4ffcc;
+    border: 2px solid #d8ff2d;
+    padding: 40px;
+    width: 300px;
+    height: auto;
+    text-align: center
+}
